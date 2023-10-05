@@ -1,4 +1,4 @@
-# Movie_Recommender
+# Movie Recommender
 This is a movie recommendation system based on content based filtering.
 
 We all have seen how well the Recommendation Engines of popular OTT Platforms like Netflix and Amazon Prime function.
