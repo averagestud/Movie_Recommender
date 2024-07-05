@@ -13,6 +13,7 @@ The main idea is to recommend movies based on the genres, director, cast, crew o
 Since this is based on content based filtering, in order to extract the required genres, directors and crew, I was also able to use some of the most popular NLP Techniques like Stemming, removing stop words and etc.
 
 I was also able to successfully deploy the model on my local machine using streamlit and here is the screenshot of the app running.
-![image](https://github.com/averagestud/Movie_Recommender/assets/128608033/adba7452-d80d-4e6d-ba57-777e28251df1)
+![image](https://github.com/averagestud/Movie_Recommender/assets/128608033/f822adc7-2e0d-41ae-80e0-a6e064a866f1)
+
  *Note: We can see the full movie poster with the help of the zoom button that is provided by streamlit.
  
