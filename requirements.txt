@@ -4,6 +4,4 @@ ast
 nltk
 sklearn
 pickle
-beautifulsoup4
 requests
-selenium
