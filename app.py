@@ -2,9 +2,6 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
-from selenium import webdriver
-from webdriver_manager.chrome import ChromeDriverManager
-from bs4 import BeautifulSoup
 import time
 
 def local_css(file_name):
