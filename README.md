@@ -2,7 +2,7 @@
 This is a movie recommendation system based on content based filtering.
 
 # Website
-[Website](https://literate-goldfish-4xj9r65p66v3j9p7-8501.app.github.dev/)
+[Website](https://huggingface.co/spaces/Deepaprakash04/Movie_Recommender)
 
 We all have seen how well the Recommendation Engines of popular OTT Platforms like Netflix and Amazon Prime function.
 These recommendation systems are based on what is known as hybrid filtering i.e. Content Based Filtering as well as Collaborative Filtering techniques.
