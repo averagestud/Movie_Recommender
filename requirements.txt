@@ -3,6 +3,6 @@ pandas
 ast
 nltk
 scikit-learn
-pickle5
+pypickle
 requests
 streamlit
