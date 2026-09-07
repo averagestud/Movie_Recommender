@@ -9,7 +9,7 @@ def local_css(file_name):
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 def fetch_poster(movie_id):
-    response=requests.get('https://api.themoviedb.org/3/movie/{}?api_key=f19da43b6e95d951f63c85c751fee805&&language=en-US'.format(movie_id))
+    response=requests.get('https://api.themoviedb.org/3/movie/{}?api_key=<api-key>'.format(movie_id))
     data=response.json()
     return "https://image.tmdb.org/t/p/original/"+data['poster_path']
 
